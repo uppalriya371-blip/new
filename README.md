@@ -15,6 +15,8 @@ Loops & condition handling
 Simple game logic
 
 ⭐ Features
+
+
 ✔ Create and name your virtual pet
 
 ✔ Track your pet’s status (energy, hunger, happiness, cleanliness, health, mood)

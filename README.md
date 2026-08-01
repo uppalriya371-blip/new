@@ -1,4 +1,6 @@
 Virtual Pet Simulation (Python)
+
+
 📌 Overview
 This project is a simple console-based Virtual Pet Simulator written in Python. The player adopts a pet and interacts with it by feeding, bathing, sleeping, and playing. Each action affects the pet’s stats—hunger, happiness, energy, cleanliness, and health. The pet’s mood also changes based on its condition. If any critical stat reaches zero, the pet dies and the game ends.
 
